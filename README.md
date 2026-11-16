@@ -1,7 +1,7 @@
 # DOG-IA_ROBO_CAO-GUIA
 
 DOG-IA — Robô Cão-Guia Urbano de Inteligência Assistiva.
-Disciplina: Robótica Móvel Inteligente (Intelligent Mobile Robots) — AC-3 / AC-4, 2º semestre de 2026.
+Disciplina: Robótica Móvel Inteligente (Intelligent Mobile Robots) — AC-3 / AC-4, 6º semestre de Ciência da Computação de 2026.
 
 ## Integrantes
 

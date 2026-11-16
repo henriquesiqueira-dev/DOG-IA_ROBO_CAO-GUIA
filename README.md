@@ -52,3 +52,5 @@ rviz2         # terminal 2
 | 16/11 | Visão computacional | 0,25 |
 | 23/11 | HRI (voz) + vídeo + relatório | 0,25 |
 | 30/11 | Apresentação final | 0,50 |
+
+## Código
